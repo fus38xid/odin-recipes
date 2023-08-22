@@ -1,0 +1,24 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#title{
+    font-size: 70px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.ul{
+    font-size: 20px;
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
+#disclaimer{
+    font-size: 12px;
+    font-style: italic;
+    color: gray;
+    border: white 3px solid;
+}
